@@ -1,0 +1,2 @@
+/system/etc/ncs_4layer/cfg  AndHmi.cfg
+配置上位机ip和端口

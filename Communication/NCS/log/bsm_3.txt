@@ -1,0 +1,200 @@
+2022-10-24 00:37:49.728869
+{"detail":"success","rsp":0,"tag":2002,"unique":"192.168.62.117_50501"}
+2022-10-24 00:37:50.728490
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590536,"lon":106.2942682,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:37:51.230555
+{"data":[],"tag":2102}
+2022-10-24 00:37:51.728406
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590536,"lon":106.2942682,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:37:52.230176
+{"data":[],"tag":2102}
+2022-10-24 00:37:52.728636
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905359,"lon":106.2942682,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:37:53.229943
+{"data":[],"tag":2102}
+2022-10-24 00:37:53.728871
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905359,"lon":106.2942682,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:37:54.230293
+{"data":[],"tag":2102}
+2022-10-24 00:37:54.728379
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905359,"lon":106.2942681,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:37:55.229130
+{"data":[],"tag":2102}
+2022-10-24 00:37:55.729077
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905358,"lon":106.2942682,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:37:56.229553
+{"data":[],"tag":2102}
+2022-10-24 00:37:56.729099
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905358,"lon":106.2942682,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:37:57.230299
+{"data":[],"tag":2102}
+2022-10-24 00:37:57.728738
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905358,"lon":106.2942681,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:37:58.230386
+{"data":[],"tag":2102}
+2022-10-24 00:37:58.729043
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905358,"lon":106.2942682,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:37:59.229069
+{"data":[],"tag":2102}
+2022-10-24 00:37:59.728889
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905357,"lon":106.2942682,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:00.230007
+{"data":[],"tag":2102}
+2022-10-24 00:38:00.728843
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905357,"lon":106.2942682,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:01.229385
+{"data":[],"tag":2102}
+2022-10-24 00:38:01.728804
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905356,"lon":106.2942683,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:02.229496
+{"data":[],"tag":2102}
+2022-10-24 00:38:02.728845
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905356,"lon":106.2942683,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:03.229838
+{"data":[],"tag":2102}
+2022-10-24 00:38:03.728885
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905355,"lon":106.2942683,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:04.229788
+{"data":[],"tag":2102}
+2022-10-24 00:38:04.728453
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905354,"lon":106.2942683,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:05.229183
+{"data":[],"tag":2102}
+2022-10-24 00:38:05.729035
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905354,"lon":106.2942683,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:06.229281
+{"data":[],"tag":2102}
+2022-10-24 00:38:06.728869
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905354,"lon":106.2942683,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:07.229121
+{"data":[],"tag":2102}
+2022-10-24 00:38:07.728650
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905353,"lon":106.2942683,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:08.228599
+{"data":[],"tag":2102}
+2022-10-24 00:38:08.728266
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905353,"lon":106.2942683,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:09.229320
+{"data":[],"tag":2102}
+2022-10-24 00:38:09.728918
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905353,"lon":106.2942683,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:10.229076
+{"data":[],"tag":2102}
+2022-10-24 00:38:10.728394
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905353,"lon":106.2942684,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:11.229023
+{"data":[],"tag":2102}
+2022-10-24 00:38:11.728726
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905353,"lon":106.2942684,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:12.228576
+{"data":[],"tag":2102}
+2022-10-24 00:38:12.729224
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905353,"lon":106.2942685,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:13.229962
+{"data":[],"tag":2102}
+2022-10-24 00:38:13.728506
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905352,"lon":106.2942686,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:14.229149
+{"data":[],"tag":2102}
+2022-10-24 00:38:14.728439
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905352,"lon":106.2942687,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:15.229563
+{"data":[],"tag":2102}
+2022-10-24 00:38:15.729198
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905352,"lon":106.2942688,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:16.229657
+{"data":[],"tag":2102}
+2022-10-24 00:38:16.729156
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905351,"lon":106.2942688,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:17.228799
+{"data":[],"tag":2102}
+2022-10-24 00:38:17.728404
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905351,"lon":106.2942689,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:18.229399
+{"data":[],"tag":2102}
+2022-10-24 00:38:18.728459
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905351,"lon":106.2942689,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:19.228531
+{"data":[],"tag":2102}
+2022-10-24 00:38:19.729350
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942691,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:20.228581
+{"data":[],"tag":2102}
+2022-10-24 00:38:20.728505
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942692,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:21.229382
+{"data":[],"tag":2102}
+2022-10-24 00:38:21.729283
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942693,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:22.230071
+{"data":[],"tag":2102}
+2022-10-24 00:38:22.728874
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942694,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:23.230115
+{"data":[],"tag":2102}
+2022-10-24 00:38:23.728556
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942694,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:24.228609
+{"data":[],"tag":2102}
+2022-10-24 00:38:24.728806
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942694,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:25.229365
+{"data":[],"tag":2102}
+2022-10-24 00:38:25.729181
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942694,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:26.229201
+{"data":[],"tag":2102}
+2022-10-24 00:38:26.728794
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942694,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:27.232197
+{"data":[],"tag":2102}
+2022-10-24 00:38:27.728737
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942695,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:28.230110
+{"data":[],"tag":2102}
+2022-10-24 00:38:28.729088
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942695,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:29.230276
+{"data":[],"tag":2102}
+2022-10-24 00:38:29.729249
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942695,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:30.229764
+{"data":[],"tag":2102}
+2022-10-24 00:38:30.729276
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.590535,"lon":106.2942695,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:31.229530
+{"data":[],"tag":2102}
+2022-10-24 00:38:31.729190
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905351,"lon":106.2942696,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:32.230180
+{"data":[],"tag":2102}
+2022-10-24 00:38:32.728382
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905351,"lon":106.2942696,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:33.230303
+{"data":[],"tag":2102}
+2022-10-24 00:38:33.728904
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905351,"lon":106.2942696,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:34.230320
+{"data":[],"tag":2102}
+2022-10-24 00:38:34.728745
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905351,"lon":106.2942697,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:35.230252
+{"data":[],"tag":2102}
+2022-10-24 00:38:35.728443
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905352,"lon":106.2942697,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:36.230480
+{"data":[],"tag":2102}
+2022-10-24 00:38:36.729087
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905352,"lon":106.2942697,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:37.229683
+{"data":[],"tag":2102}
+2022-10-24 00:38:37.729085
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905353,"lon":106.2942697,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:38.230134
+{"data":[],"tag":2102}
+2022-10-24 00:38:38.729230
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905353,"lon":106.2942698,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
+2022-10-24 00:38:39.228457
+{"data":[],"tag":2102}
+2022-10-24 00:38:39.728456
+{"data":{"device_id":"京ADY202","drive_status":2,"ele":292.5,"hea":260.6625,"lat":29.5905353,"lon":106.2942698,"pos_valid":true,"spd":0.0,"vehicle_num":"京ADY202","vehicle_type":55,"vip_status":0},"tag":2101}
